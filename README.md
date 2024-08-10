@@ -34,7 +34,7 @@ A stunning frontend masterpiece for a popular restaurant in Lakeside, Pokhara.
 
 ## 📫 Let's Connect!
 - 📧 Email: pukarkhanal5@gmail.com
-- 💼 LinkedIn: [Pukar Khanal]((https://www.linkedin.com/in/pukar-khanal-54a09a287/))
+- 💼 LinkedIn: [Pukar Khanal](https://www.linkedin.com/in/pukar-khanal-54a09a287/)
 
 ## 🤝 Open to Collaboration
 I'm always excited to work on innovative projects and contribute to the developer community. If you have an idea or need assistance, feel free to reach out!
