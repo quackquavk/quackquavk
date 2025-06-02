@@ -1,47 +1,22 @@
-# 👋 Welcome to Pukar Khanal's GitHub Universe!
+# 💫 About Me:
+⁕ Working on ChessDream, InviteWithQR.com, Rust template generator backend. <br>⁕ Tell me about product engineering, SEO and marketing.<br>⁕ Websockets, HTTP and gRPC.
 
-## 🚀 About Me
-I'm a passionate software developer with a knack for creating clean, efficient, and maintainable code. My journey in the world of programming is fueled by an insatiable curiosity and a drive to tackle new challenges head-on.
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diomedeidaei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pukarkhanal) 
 
-## 🏆 Featured Projects
-
-### 🎉 Event-App
-An event management app that revolutionizes online event hosting.
-- **Tech Stack**: Next.js, TypeScript, MongoDB, Stripe, Shadcn UI, Clerk
-- **Key Features**: Seamless event creation, user-friendly interface, secure payments
-
-### 🍽️ Paradiso
-A stunning frontend masterpiece for a popular restaurant in Lakeside, Pokhara.
-- **Tech Stack**: Next.js, TailwindCSS, TypeScript, MongoDB
-- **Impact**: Serving over 100 guests daily with an intuitive digital experience
-
-## 🌟 What Sets Me Apart
-- 🎨 Passion for creating visually appealing and user-friendly interfaces
-- 🧠 Strong problem-solving skills with a focus on efficient solutions
-- 🤝 Collaborative mindset and excellent communication skills
-- 📚 Commitment to continuous learning and staying updated with the latest tech trends
-
-## 📫 Let's Connect!
-- 📧 Email: pukarkhanal5@gmail.com
-- 💼 LinkedIn: [Pukar Khanal](https://www.linkedin.com/in/pukar-khanal-54a09a287/)
-
-## 🤝 Open to Collaboration
-I'm always excited to work on innovative projects and contribute to the developer community. If you have an idea or need assistance, feel free to reach out!
-
-## 📜 License
-Unless otherwise specified, all projects in this repository are available under the MIT License.
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=quackquavk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=quackquavk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quackquavk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=quackquavk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for exploring my GitHub universe! Star ⭐ my repositories if you find them interesting!
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dev_chessdream) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
